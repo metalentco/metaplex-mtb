@@ -36,14 +36,6 @@ $ yarn start
 The Rust programs will soon be added to this repo with JavaScript
 bindings that allow interactivity.
 
-## Community
-
-We have a few channels for contact:
-
-- [Discord](https://discord.gg/metaplex)
-- [@metaplex](https://twitter.com/metaplex) on Twitter
-- [GitHub Issues](https://github.com/metaplex-foundation/metaplex/issues)
-
 # Protocol
 
 ## Non-fungible tokens
